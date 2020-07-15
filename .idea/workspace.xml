@@ -14,7 +14,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\dev\leitorsisp01\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1edWMqUcC2Lh3aton3oydixGBRh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ascii0.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -64,6 +75,7 @@
       <workItem from="1594667204426" duration="1195000" />
       <workItem from="1594745915788" duration="4391000" />
       <workItem from="1594750411157" duration="1640000" />
+      <workItem from="1594781795625" duration="333000" />
     </task>
     <servers />
   </component>
